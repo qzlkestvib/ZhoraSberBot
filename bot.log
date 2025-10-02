@@ -1,0 +1,492 @@
+2025-10-01 22:18:38,404 [INFO] logging in using static token
+2025-10-01 22:18:39,861 [INFO] Shard ID None has connected to Gateway (Session ID: b50b6795372947d4125dfd351d2a7153).
+2025-10-01 22:18:51,627 [INFO] Запрос к OpenDota для Steam ID 76561199051018992
+2025-10-01 22:18:51,886 [INFO] Статус ответа: 404
+2025-10-01 22:18:51,886 [WARNING] Не удалось получить данные для 76561199051018992: {"error":"Not Found"}
+2025-10-01 22:20:45,898 [INFO] logging in using static token
+2025-10-01 22:20:47,260 [INFO] Shard ID None has connected to Gateway (Session ID: f65f9c49b41292bff5ecb769bc4ed33c).
+2025-10-01 22:20:53,340 [INFO] Запрос к OpenDota для Steam ID 1090753264
+2025-10-01 22:20:53,617 [INFO] Статус ответа: 200
+2025-10-01 22:20:53,619 [INFO] Полученные данные для 1090753264: {'profile': {'account_id': 1090753264, 'personaname': 'eбyчий Питер Паркер', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199051018992', 'avatar': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919_full.jpg', 'profileurl': 'https://steamcommunity.com/id/tsukeng/', 'last_login': '2025-08-27T18:49:09.744Z', 'loccountrycode': 'FI', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 45, 'leaderboard_rank': None, 'computed_rating': 3865.19}
+2025-10-01 22:25:39,077 [INFO] logging in using static token
+2025-10-01 22:25:40,461 [INFO] Shard ID None has connected to Gateway (Session ID: 3413bae52cfbf041c1993cc002f6fef5).
+2025-10-01 22:25:57,696 [INFO] Запрос к OpenDota для Steam ID 1113529473
+2025-10-01 22:25:58,011 [INFO] Статус ответа: 200
+2025-10-01 22:25:58,011 [INFO] Полученные данные для 1113529473: {'profile': {'account_id': 1113529473, 'personaname': 'whitefish', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199073795201', 'avatar': 'https://avatars.steamstatic.com/530209eb3e62311cbfe72a28179b2bb07ca61792.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/530209eb3e62311cbfe72a28179b2bb07ca61792_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/530209eb3e62311cbfe72a28179b2bb07ca61792_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199073795201/', 'last_login': None, 'loccountrycode': 'JP', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 71, 'leaderboard_rank': None, 'computed_rating': 3963.1}
+2025-10-01 22:26:14,122 [INFO] Запрос к OpenDota для Steam ID 1690760463
+2025-10-01 22:26:14,390 [INFO] Статус ответа: 200
+2025-10-01 22:26:14,390 [INFO] Полученные данные для 1690760463: {'profile': {'account_id': 1690760463, 'personaname': 'иог3ри4орл3и4', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199651026191', 'avatar': 'https://avatars.steamstatic.com/f071a918ad3cdd33cce3f06273e64bb4e33e82c6.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/f071a918ad3cdd33cce3f06273e64bb4e33e82c6_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/f071a918ad3cdd33cce3f06273e64bb4e33e82c6_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199651026191/', 'last_login': None, 'loccountrycode': 'AQ', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 65, 'leaderboard_rank': None, 'computed_rating': 4067.33}
+2025-10-01 22:26:37,243 [INFO] Запрос к OpenDota для Steam ID 1095177506
+2025-10-01 22:26:37,528 [INFO] Статус ответа: 200
+2025-10-01 22:26:37,528 [INFO] Полученные данные для 1095177506: {'profile': {'account_id': 1095177506, 'personaname': 'Мистер Жопасранч', 'name': None, 'plus': False, 'cheese': 0, 'steamid': '76561199055443234', 'avatar': 'https://avatars.steamstatic.com/f475ad4677621aa3601afdf60884a5869b1d4d80.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/f475ad4677621aa3601afdf60884a5869b1d4d80_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/f475ad4677621aa3601afdf60884a5869b1d4d80_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199055443234/', 'last_login': None, 'loccountrycode': 'RU', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 45, 'leaderboard_rank': None, 'computed_rating': 4007.13}
+2025-10-01 22:26:58,826 [INFO] Запрос к OpenDota для Steam ID 1717559133
+2025-10-01 22:26:59,095 [INFO] Статус ответа: 200
+2025-10-01 22:26:59,095 [INFO] Полученные данные для 1717559133: {'profile': {'account_id': 1717559133, 'personaname': 'В клубе', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199677824861', 'avatar': 'https://avatars.steamstatic.com/bd7419178dd97d95ff13bcba280773f8c1020c59.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/bd7419178dd97d95ff13bcba280773f8c1020c59_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/bd7419178dd97d95ff13bcba280773f8c1020c59_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199677824861/', 'last_login': None, 'loccountrycode': None, 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': None, 'leaderboard_rank': None, 'computed_rating': None}
+2025-10-01 22:29:06,866 [WARNING] Попытка получить ранг адон, Steam ID не найден.
+2025-10-01 22:30:53,650 [INFO] logging in using static token
+2025-10-01 22:30:55,122 [INFO] Shard ID None has connected to Gateway (Session ID: 36357c52f2cabfc12036e4f43debfeea).
+2025-10-01 22:31:29,956 [INFO] Запрос к OpenDota: https://api.opendota.com/api/players/1090753264
+2025-10-01 22:31:30,274 [INFO] Полученные данные для 1090753264: {'profile': {'account_id': 1090753264, 'personaname': 'eбyчий Питер Паркер', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199051018992', 'avatar': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919_full.jpg', 'profileurl': 'https://steamcommunity.com/id/tsukeng/', 'last_login': '2025-08-27T18:49:09.744Z', 'loccountrycode': 'FI', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 45, 'leaderboard_rank': None, 'computed_rating': 3865.19}
+2025-10-01 22:31:52,804 [INFO] Запрос к OpenDota: https://api.opendota.com/api/players/1113529473
+2025-10-01 22:31:53,120 [INFO] Полученные данные для 1113529473: {'profile': {'account_id': 1113529473, 'personaname': 'whitefish', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199073795201', 'avatar': 'https://avatars.steamstatic.com/530209eb3e62311cbfe72a28179b2bb07ca61792.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/530209eb3e62311cbfe72a28179b2bb07ca61792_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/530209eb3e62311cbfe72a28179b2bb07ca61792_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199073795201/', 'last_login': None, 'loccountrycode': 'JP', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 71, 'leaderboard_rank': None, 'computed_rating': 3963.1}
+2025-10-01 22:32:02,120 [INFO] Запрос к OpenDota: https://api.opendota.com/api/players/1211879905
+2025-10-01 22:32:02,436 [INFO] Полученные данные для 1211879905: {'profile': {'account_id': 1211879905, 'personaname': 'фотосинтез', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199172145633', 'avatar': 'https://avatars.steamstatic.com/5f2db5fbc690ad54876750635667028a4977de8e.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/5f2db5fbc690ad54876750635667028a4977de8e_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/5f2db5fbc690ad54876750635667028a4977de8e_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199172145633/', 'last_login': None, 'loccountrycode': 'RU', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 24, 'leaderboard_rank': None, 'computed_rating': 4117.38}
+2025-10-01 22:32:53,282 [INFO] logging in using static token
+2025-10-01 22:32:54,444 [INFO] Shard ID None has connected to Gateway (Session ID: 4b933425ce09476fa8e2d1ff3779c877).
+2025-10-01 22:33:04,342 [INFO] Запрос к OpenDota: https://api.opendota.com/api/players/1090753264
+2025-10-01 22:33:04,613 [INFO] Полученные данные для 1090753264: {'profile': {'account_id': 1090753264, 'personaname': 'eбyчий Питер Паркер', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199051018992', 'avatar': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919_full.jpg', 'profileurl': 'https://steamcommunity.com/id/tsukeng/', 'last_login': '2025-08-27T18:49:09.744Z', 'loccountrycode': 'FI', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 45, 'leaderboard_rank': None, 'computed_rating': 3865.19}
+2025-10-01 22:33:26,258 [INFO] Запрос к OpenDota: https://api.opendota.com/api/players/1211879905
+2025-10-01 22:33:26,627 [INFO] Полученные данные для 1211879905: {'profile': {'account_id': 1211879905, 'personaname': 'фотосинтез', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199172145633', 'avatar': 'https://avatars.steamstatic.com/5f2db5fbc690ad54876750635667028a4977de8e.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/5f2db5fbc690ad54876750635667028a4977de8e_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/5f2db5fbc690ad54876750635667028a4977de8e_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199172145633/', 'last_login': None, 'loccountrycode': 'RU', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 24, 'leaderboard_rank': None, 'computed_rating': 4117.38}
+2025-10-01 22:34:03,002 [ERROR] Ignoring exception in command профиль
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1056, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 973, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 880, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 732, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: member is a required argument that is missing.
+2025-10-01 22:34:16,839 [INFO] Запрос к OpenDota: https://api.opendota.com/api/players/1690760463
+2025-10-01 22:34:17,132 [INFO] Полученные данные для 1690760463: {'profile': {'account_id': 1690760463, 'personaname': 'иог3ри4орл3и4', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199651026191', 'avatar': 'https://avatars.steamstatic.com/f071a918ad3cdd33cce3f06273e64bb4e33e82c6.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/f071a918ad3cdd33cce3f06273e64bb4e33e82c6_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/f071a918ad3cdd33cce3f06273e64bb4e33e82c6_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199651026191/', 'last_login': None, 'loccountrycode': 'AQ', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 65, 'leaderboard_rank': None, 'computed_rating': 4067.33}
+2025-10-01 22:38:28,021 [WARNING] Попытка получить профиль Yuriz, Steam ID не найден.
+2025-10-01 22:38:33,908 [INFO] logging in using static token
+2025-10-01 22:38:35,391 [INFO] Shard ID None has connected to Gateway (Session ID: 26201f6c28c6e690cbe2ca24f137281d).
+2025-10-01 22:38:43,640 [INFO] Запрос к OpenDota: https://api.opendota.com/api/players/1140883564
+2025-10-01 22:38:43,979 [INFO] Полученные данные для 1140883564: {'profile': {'account_id': 1140883564, 'personaname': 'Ярик Радик', 'name': None, 'plus': False, 'cheese': 0, 'steamid': '76561199101149292', 'avatar': 'https://avatars.steamstatic.com/0a64137f0a473074259f48e727242b175aa6a378.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/0a64137f0a473074259f48e727242b175aa6a378_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/0a64137f0a473074259f48e727242b175aa6a378_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199101149292/', 'last_login': None, 'loccountrycode': None, 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 41, 'leaderboard_rank': None, 'computed_rating': 4045.83}
+2025-10-01 22:39:00,965 [INFO] Запрос к OpenDota: https://api.opendota.com/api/players/1857678271
+2025-10-01 22:39:01,255 [INFO] Полученные данные для 1857678271: {'profile': {'account_id': 1857678271, 'personaname': 'Mental Affection❤', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199817943999', 'avatar': 'https://avatars.steamstatic.com/d96fb0e0d2e84d3f6da2e7392ba7c2cb07399844.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/d96fb0e0d2e84d3f6da2e7392ba7c2cb07399844_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/d96fb0e0d2e84d3f6da2e7392ba7c2cb07399844_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199817943999/', 'last_login': None, 'loccountrycode': None, 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 61, 'leaderboard_rank': None, 'computed_rating': 4002.82}
+2025-10-01 22:50:53,391 [INFO] logging in using static token
+2025-10-01 22:50:54,739 [INFO] Shard ID None has connected to Gateway (Session ID: 0c0df67677f3291f5933f9fa6460f31e).
+2025-10-01 22:51:06,121 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "топ_вр" is not found
+2025-10-01 22:51:20,036 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "топ_ранг" is not found
+2025-10-01 22:52:28,045 [INFO] logging in using static token
+2025-10-01 22:52:29,400 [INFO] Shard ID None has connected to Gateway (Session ID: 897ef3c5b1bc65393c8fc99889d9c4f2).
+2025-10-01 22:52:48,149 [ERROR] Ignoring exception in command топ_ранг
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 165, in top_rank
+    mmr_custom = rank_to_mmr.get(rank_text, 0)
+NameError: name 'rank_to_mmr' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NameError: name 'rank_to_mmr' is not defined
+2025-10-01 22:53:02,872 [ERROR] Ignoring exception in command топ_ранг
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 165, in top_rank
+    mmr_custom = rank_to_mmr.get(rank_text, 0)
+NameError: name 'rank_to_mmr' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NameError: name 'rank_to_mmr' is not defined
+2025-10-01 22:53:16,934 [INFO] logging in using static token
+2025-10-01 22:53:18,180 [INFO] Shard ID None has connected to Gateway (Session ID: 3d11b8da7c55f3cd180efcfec69aa9be).
+2025-10-01 22:54:12,135 [INFO] logging in using static token
+2025-10-01 22:54:13,419 [INFO] Shard ID None has connected to Gateway (Session ID: 97b6b386451ec86ca27ea5944a6074cd).
+2025-10-01 22:55:46,556 [INFO] logging in using static token
+2025-10-01 22:55:47,970 [INFO] Shard ID None has connected to Gateway (Session ID: 1d82111b0e0308555da0838920fd0508).
+2025-10-01 22:59:24,869 [INFO] logging in using static token
+2025-10-01 22:59:26,187 [INFO] Shard ID None has connected to Gateway (Session ID: ff83fbd59f6f1179736180cc551539b6).
+2025-10-01 23:02:03,088 [INFO] logging in using static token
+2025-10-01 23:02:05,031 [INFO] Shard ID None has connected to Gateway (Session ID: c1398c4769b4f8f7dd215b1afdfff8a3).
+2025-10-01 23:02:08,110 [INFO] Запрос к OpenDota: https://api.opendota.com/api/players/1217129554
+2025-10-01 23:02:08,421 [INFO] Полученные данные для 1217129554: {'profile': {'account_id': 1217129554, 'personaname': 'ноль эло', 'name': None, 'plus': False, 'cheese': 0, 'steamid': '76561199177395282', 'avatar': 'https://avatars.steamstatic.com/cad295baf7155e0544d78cbb00f9d2e5bc5073a6.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/cad295baf7155e0544d78cbb00f9d2e5bc5073a6_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/cad295baf7155e0544d78cbb00f9d2e5bc5073a6_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199177395282/', 'last_login': None, 'loccountrycode': 'GS', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 25, 'leaderboard_rank': None, 'computed_rating': 3984}
+2025-10-01 23:02:25,826 [INFO] Запрос к OpenDota: https://api.opendota.com/api/players/1113529473
+2025-10-01 23:02:26,096 [INFO] Полученные данные для 1113529473: {'profile': {'account_id': 1113529473, 'personaname': 'whitefish', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199073795201', 'avatar': 'https://avatars.steamstatic.com/530209eb3e62311cbfe72a28179b2bb07ca61792.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/530209eb3e62311cbfe72a28179b2bb07ca61792_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/530209eb3e62311cbfe72a28179b2bb07ca61792_full.jpg', 'profileurl': 'https://steamcommunity.com/profiles/76561199073795201/', 'last_login': None, 'loccountrycode': 'JP', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 71, 'leaderboard_rank': None, 'computed_rating': 3963.1}
+2025-10-01 23:14:29,111 [INFO] logging in using static token
+2025-10-01 23:14:30,621 [INFO] Shard ID None has connected to Gateway (Session ID: 4d0a5e6500d2743ba8b6bb01282b99ad).
+2025-10-01 23:14:48,501 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "начать_матч" is not found
+2025-10-01 23:14:52,086 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "отсоси" is not found
+2025-10-01 23:14:59,017 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "минет" is not found
+2025-10-01 23:15:11,486 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "начать_матч" is not found
+2025-10-01 23:15:35,141 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "начать_матч" is not found
+2025-10-01 23:16:33,695 [INFO] logging in using static token
+2025-10-01 23:16:35,046 [INFO] Shard ID None has connected to Gateway (Session ID: ef8fe426565e8b7216a1f85cb46ca42a).
+2025-10-01 23:16:40,881 [ERROR] Ignoring exception in command начать_матч
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1056, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 973, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 880, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 732, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: bo_type is a required argument that is missing.
+2025-10-01 23:17:37,991 [ERROR] Ignoring exception in command состав_1
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1056, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 973, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 888, in _parse_arguments
+    kwargs[name] = await self.transform(ctx, param, attachments)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 732, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: composition is a required argument that is missing.
+2025-10-01 23:19:21,080 [INFO] logging in using static token
+2025-10-01 23:19:22,339 [INFO] Shard ID None has connected to Gateway (Session ID: f4ca166afc62f1c0a99420290efd16a7).
+2025-10-01 23:28:29,833 [INFO] logging in using static token
+2025-10-01 23:28:31,138 [INFO] Shard ID None has connected to Gateway (Session ID: d58f126e20ac75376d0c509165be40eb).
+2025-10-01 23:29:53,507 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "результат" is not found
+2025-10-01 23:30:57,781 [INFO] logging in using static token
+2025-10-01 23:30:59,413 [INFO] Shard ID None has connected to Gateway (Session ID: b859ef45e431c2d03295ef9cd5538b5a).
+2025-10-01 23:31:11,658 [ERROR] Ignoring exception in command результат
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1056, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 973, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 880, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 732, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: winner is a required argument that is missing.
+2025-10-01 23:48:16,667 [INFO] logging in using static token
+2025-10-01 23:48:18,053 [INFO] Shard ID None has connected to Gateway (Session ID: 6420ff45d361a6136e424e17dd0be4ca).
+2025-10-02 00:15:32,723 [INFO] logging in using static token
+2025-10-02 00:15:33,996 [INFO] Shard ID None has connected to Gateway (Session ID: 3feef2e106c74707d30df4062cd6ed20).
+2025-10-02 00:17:10,945 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "заново" is not found
+2025-10-02 00:17:19,037 [INFO] logging in using static token
+2025-10-02 00:17:20,449 [INFO] Shard ID None has connected to Gateway (Session ID: fd0505ed6b2ea8acfa4d32c2f5f3f125).
+2025-10-02 00:23:51,385 [ERROR] Ignoring exception in command результат
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 365, in match_result
+    final_text = f"{winner_team} в составе {', '.join(match[winner_team.lower()])} " \
+KeyError: 'команда 2'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: KeyError: 'команда 2'
+2025-10-02 00:24:11,292 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "счет" is not found
+2025-10-02 00:26:02,686 [INFO] logging in using static token
+2025-10-02 00:26:04,120 [INFO] Shard ID None has connected to Gateway (Session ID: beb6981ebc108d9b06eab3b0dd5255cd).
+2025-10-02 00:30:05,913 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "счет" is not found
+2025-10-02 00:30:37,092 [INFO] logging in using static token
+2025-10-02 00:30:38,628 [INFO] Shard ID None has connected to Gateway (Session ID: 82c3c4755b1583fa97e294b5930774d9).
+2025-10-02 00:33:35,051 [ERROR] Ignoring exception in command результат
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 363, in match_result
+    f"{winner_team} в составе {', '.join(match[winner_team.lower()])} "
+KeyError: 'команда 2'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: KeyError: 'команда 2'
+2025-10-02 00:37:01,138 [INFO] logging in using static token
+2025-10-02 00:37:02,425 [INFO] Shard ID None has connected to Gateway (Session ID: 3f3c243b9662dc6db77ceb275a973a18).
+2025-10-02 00:37:22,711 [ERROR] Ignoring exception in command начать_матч
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1056, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 973, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 880, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 732, in transform
+    raise MissingRequiredArgument(param)
+discord.ext.commands.errors.MissingRequiredArgument: bo_type is a required argument that is missing.
+2025-10-02 00:39:27,381 [INFO] Shard ID None has successfully RESUMED session 3f3c243b9662dc6db77ceb275a973a18.
+2025-10-02 01:28:47,203 [INFO] logging in using static token
+2025-10-02 01:28:48,528 [INFO] Shard ID None has connected to Gateway (Session ID: 2ed4fc54de0c896a7a13f980b4bedfca).
+2025-10-02 01:29:04,262 [ERROR] Ignoring exception in command начать_матч
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 310, in start_match
+    wait
+NameError: name 'wait' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NameError: name 'wait' is not defined
+2025-10-02 01:31:06,740 [INFO] logging in using static token
+2025-10-02 01:31:08,004 [INFO] Shard ID None has connected to Gateway (Session ID: 22e215a73246d092c6c0a7f3f2ffd5b7).
+2025-10-02 01:33:15,935 [INFO] logging in using static token
+2025-10-02 01:33:17,346 [INFO] Shard ID None has connected to Gateway (Session ID: 539a915bd7ffcbfea6c4345ad6919d26).
+2025-10-02 01:34:51,788 [INFO] logging in using static token
+2025-10-02 01:34:53,161 [INFO] Shard ID None has connected to Gateway (Session ID: d5a4b4c26e8bfdb6a306905f98bc2d59).
+2025-10-02 01:35:38,798 [INFO] logging in using static token
+2025-10-02 01:35:40,009 [INFO] Shard ID None has connected to Gateway (Session ID: 072d948cb25e9db260d1abb90f72bd7d).
+2025-10-02 01:37:09,954 [INFO] logging in using static token
+2025-10-02 01:37:11,437 [INFO] Shard ID None has connected to Gateway (Session ID: fc9e94070fb2f40697ac9d2aefb4b838).
+2025-10-02 01:38:51,290 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "результаты" is not found
+2025-10-02 01:39:06,727 [ERROR] Ignoring exception in command результат
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 420, in match_result
+    f"Команда 1 ({', '.join(match['team1'])}) — {match['score'][0]}\n"
+TypeError: sequence item 0: expected str instance, Member found
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: TypeError: sequence item 0: expected str instance, Member found
+2025-10-02 01:40:57,807 [INFO] logging in using static token
+2025-10-02 01:40:59,028 [INFO] Shard ID None has connected to Gateway (Session ID: 07f34e8b8ef73c12b5317c7843b479f3).
+2025-10-02 01:43:01,841 [INFO] Запрос к OpenDota: https://api.opendota.com/api/players/1090753264
+2025-10-02 01:43:02,211 [INFO] Полученные данные для 1090753264: {'profile': {'account_id': 1090753264, 'personaname': 'eбyчий Питер Паркер', 'name': None, 'plus': True, 'cheese': 0, 'steamid': '76561199051018992', 'avatar': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919.jpg', 'avatarmedium': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919_medium.jpg', 'avatarfull': 'https://avatars.steamstatic.com/fce0c1ff8341ac77084b21600c01ca8ef9534919_full.jpg', 'profileurl': 'https://steamcommunity.com/id/tsukeng/', 'last_login': '2025-08-27T18:49:09.744Z', 'loccountrycode': 'FI', 'status': None, 'fh_unavailable': False, 'is_contributor': False, 'is_subscriber': False}, 'rank_tier': 45, 'leaderboard_rank': None, 'computed_rating': 3895.64}
+2025-10-02 01:45:59,834 [INFO] logging in using static token
+2025-10-02 01:46:01,221 [INFO] Shard ID None has connected to Gateway (Session ID: 101b6faa899b65014582632e3636a01c).
+2025-10-02 01:52:30,742 [INFO] logging in using static token
+2025-10-02 01:52:32,097 [INFO] Shard ID None has connected to Gateway (Session ID: 22bdc8ed711560863ccf01bd19a71616).
+2025-10-02 01:58:49,743 [INFO] logging in using static token
+2025-10-02 01:58:51,060 [INFO] Shard ID None has connected to Gateway (Session ID: 787de6fd54599babe7387b0f47ed832c).
+2025-10-02 02:00:53,951 [INFO] logging in using static token
+2025-10-02 02:00:55,251 [INFO] Shard ID None has connected to Gateway (Session ID: dbf56af310c838aad50ede4d17d08975).
+2025-10-02 02:03:13,259 [INFO] logging in using static token
+2025-10-02 02:03:15,712 [INFO] Shard ID None has connected to Gateway (Session ID: ec1ceca0e9b69d068f31733089f83a7c).
+2025-10-02 02:05:57,325 [INFO] logging in using static token
+2025-10-02 02:05:58,796 [INFO] Shard ID None has connected to Gateway (Session ID: b52f9b29289908609b4926dab3a27bdf).
+2025-10-02 02:13:02,690 [INFO] logging in using static token
+2025-10-02 02:13:04,134 [INFO] Shard ID None has connected to Gateway (Session ID: 5ec7ae02f95355966bc945ccff3918cd).
+2025-10-02 02:14:26,473 [INFO] logging in using static token
+2025-10-02 02:14:27,701 [INFO] Shard ID None has connected to Gateway (Session ID: 901ee8de2a05458459ec96ed45d7a70e).
+2025-10-02 02:28:35,224 [INFO] logging in using static token
+2025-10-02 02:28:36,535 [INFO] Shard ID None has connected to Gateway (Session ID: 3971726fd3542d4d9aca761711d7d8cc).
+2025-10-02 02:35:53,139 [INFO] logging in using static token
+2025-10-02 02:35:54,628 [INFO] Shard ID None has connected to Gateway (Session ID: 949679e7b9337d7bb186a8e61a8015dd).
+2025-10-02 02:38:13,320 [INFO] logging in using static token
+2025-10-02 02:38:14,843 [INFO] Shard ID None has connected to Gateway (Session ID: b75d367c2bd2a0ffa7239679038f8c35).
+2025-10-02 02:39:44,039 [INFO] logging in using static token
+2025-10-02 02:39:45,211 [INFO] Shard ID None has connected to Gateway (Session ID: 30ca4041daa1eddda3ef18d0e3c3e597).
+2025-10-02 02:40:30,713 [INFO] logging in using static token
+2025-10-02 02:40:31,989 [INFO] Shard ID None has connected to Gateway (Session ID: 2fed36d57484c691ec1e21ae6d4eeaad).
+2025-10-02 02:43:20,681 [INFO] logging in using static token
+2025-10-02 02:43:22,055 [INFO] Shard ID None has connected to Gateway (Session ID: b33fe99e24aa3daf3e966cb7648e97d1).
+2025-10-02 02:46:34,821 [INFO] logging in using static token
+2025-10-02 02:46:36,040 [INFO] Shard ID None has connected to Gateway (Session ID: 85b5083f3b7384bbcd32a855130c2361).
+2025-10-02 02:47:01,291 [INFO] logging in using static token
+2025-10-02 02:47:02,474 [INFO] Shard ID None has connected to Gateway (Session ID: 3d111ed595e7af606f851805edeaf27a).
+2025-10-02 02:49:54,941 [ERROR] Ignoring exception in command профиль
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1056, in invoke
+    await self.prepare(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 973, in prepare
+    await self._parse_arguments(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 880, in _parse_arguments
+    transformed = await self.transform(ctx, param, attachments)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 750, in transform
+    return await run_converters(ctx, converter, argument, param)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\converter.py", line 1442, in run_converters
+    return await _actual_conversion(ctx, converter, argument, param)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\converter.py", line 1326, in _actual_conversion
+    return await converter().convert(ctx, argument)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\converter.py", line 281, in convert
+    raise MemberNotFound(argument)
+discord.ext.commands.errors.MemberNotFound: Member "https://steamcommunity.com/profiles/76561199073795201/" not found.
+2025-10-02 02:51:11,259 [INFO] logging in using static token
+2025-10-02 02:51:12,596 [INFO] Shard ID None has connected to Gateway (Session ID: 74682ab79c14eadcbd4d7fd0de3b192b).
+2025-10-02 02:51:53,869 [INFO] logging in using static token
+2025-10-02 02:51:55,009 [INFO] Shard ID None has connected to Gateway (Session ID: 0dd650f5f8b4df84e985d9771a3afeca).
+2025-10-02 02:54:56,499 [INFO] Shard ID None has successfully RESUMED session 0dd650f5f8b4df84e985d9771a3afeca.
+2025-10-02 03:27:13,386 [INFO] logging in using static token
+2025-10-02 03:27:14,627 [INFO] Shard ID None has connected to Gateway (Session ID: 26654d8c544882f13a2a78c318f72d5c).
+2025-10-02 03:27:50,029 [ERROR] Ignoring exception in command профиль
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 359, in dota_profile
+    steam_ids = load_steam_ids()  # читаем актуальные данные прямо из файла
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 17, in load_steam_ids
+    return json.load(f)
+  File "C:\Users\remty\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "C:\Users\remty\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\remty\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\remty\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 12 column 1 (char 386)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: JSONDecodeError: Expecting property name enclosed in double quotes: line 12 column 1 (char 386)
+2025-10-02 03:28:04,752 [ERROR] Ignoring exception in command профиль
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 359, in dota_profile
+    steam_ids = load_steam_ids()  # читаем актуальные данные прямо из файла
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 17, in load_steam_ids
+    return json.load(f)
+  File "C:\Users\remty\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "C:\Users\remty\AppData\Local\Programs\Python\Python310\lib\json\__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "C:\Users\remty\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "C:\Users\remty\AppData\Local\Programs\Python\Python310\lib\json\decoder.py", line 353, in raw_decode
+    obj, end = self.scan_once(s, idx)
+json.decoder.JSONDecodeError: Expecting property name enclosed in double quotes: line 12 column 1 (char 386)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: JSONDecodeError: Expecting property name enclosed in double quotes: line 12 column 1 (char 386)
+2025-10-02 03:28:23,490 [INFO] logging in using static token
+2025-10-02 03:28:24,881 [INFO] Shard ID None has connected to Gateway (Session ID: c13a3f9ed098a0b4f83e116acffcb91e).
+2025-10-02 03:44:15,534 [INFO] logging in using static token
+2025-10-02 03:44:17,113 [INFO] Shard ID None has connected to Gateway (Session ID: 0af359840b67e6c3e7ee293748028db3).
+2025-10-02 03:44:28,404 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "стата" is not found
+2025-10-02 03:44:49,017 [INFO] logging in using static token
+2025-10-02 03:44:50,144 [INFO] Shard ID None has connected to Gateway (Session ID: 369b8c5d6f01eed8a2071fa70ea8cdda).
+2025-10-02 03:44:56,180 [ERROR] Ignoring exception in command стата_дота
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 757, in show_stats
+    stats = load_stats()
+NameError: name 'load_stats' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NameError: name 'load_stats' is not defined
+2025-10-02 03:45:38,759 [INFO] logging in using static token
+2025-10-02 03:45:39,898 [INFO] Shard ID None has connected to Gateway (Session ID: 9265e20b4f6ac9c0975d8541bf8eaee7).
+2025-10-02 03:45:44,898 [ERROR] Ignoring exception in command стата_дота
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 757, in show_stats
+    stats = load_stats()
+NameError: name 'load_stats' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NameError: name 'load_stats' is not defined
+2025-10-02 03:46:05,857 [INFO] logging in using static token
+2025-10-02 03:46:07,053 [INFO] Shard ID None has connected to Gateway (Session ID: ad5193a8dd3bb4bbe6ec0cc8ef11fd6f).
+2025-10-02 03:46:13,394 [ERROR] Ignoring exception in command стата_дота
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 266, in wrapped
+    ret = await coro(*args, **kwargs)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\bot.py", line 757, in show_stats
+    stats = stats_dotaload_stats()
+NameError: name 'stats_dotaload_stats' is not defined
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\bot.py", line 1376, in invoke
+    await ctx.command.invoke(ctx)
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 1064, in invoke
+    await injected(*ctx.args, **ctx.kwargs)  # type: ignore
+  File "C:\Users\remty\PycharmProjects\ZhoraSberbank\.venv\lib\site-packages\discord\ext\commands\core.py", line 275, in wrapped
+    raise CommandInvokeError(exc) from exc
+discord.ext.commands.errors.CommandInvokeError: Command raised an exception: NameError: name 'stats_dotaload_stats' is not defined
+2025-10-02 03:46:31,655 [INFO] logging in using static token
+2025-10-02 03:46:33,121 [INFO] Shard ID None has connected to Gateway (Session ID: 6390f76b4d4cbb35aaac467ff9457504).
+2025-10-02 04:38:49,090 [INFO] Shard ID None has successfully RESUMED session 6390f76b4d4cbb35aaac467ff9457504.
+2025-10-02 05:43:05,555 [INFO] Shard ID None has successfully RESUMED session 6390f76b4d4cbb35aaac467ff9457504.
+2025-10-02 15:09:38,745 [INFO] logging in using static token
+2025-10-02 15:09:39,984 [INFO] Shard ID None has connected to Gateway (Session ID: 3538d164fb5c13f0369257b53f12a46c).
+2025-10-02 15:11:50,145 [ERROR] Ignoring exception in command None
+discord.ext.commands.errors.CommandNotFound: Command "иди" is not found
+2025-10-02 15:13:48,931 [INFO] logging in using static token
+2025-10-02 15:13:50,574 [INFO] Shard ID None has connected to Gateway (Session ID: 95cf34323cb8e2be2fa776938e4094a0).
