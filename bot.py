@@ -33,7 +33,8 @@ logging.basicConfig(
 
 active_matches = {}
 
-TOKEN = os.getenv("ZHORA_TOKEN")  # читаем переменную
+TOKEN = os.getenv("DISCORD_TOKEN")
+bot.run(TOKEN)
 
 if TOKEN is None:
     raise ValueError("❌ Токен не найден! Проверьте .env и переменную ZHORA_TOKEN")
@@ -776,3 +777,4 @@ async def show_stats(ctx, member: discord.Member = None):
 # --- Запуск бота
 if __name__ == "__main__":
     bot.run(TOKEN)
+
