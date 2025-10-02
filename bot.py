@@ -10,6 +10,9 @@ import steam_register
 import json
 import stats_dota
 from steam_id import steam_ids
+from keep_alive import keep_alive
+
+
 
 STEAM_JSON = "steam_ids.json"
 
@@ -20,7 +23,7 @@ def load_steam_ids():
     except FileNotFoundError:
         return {}
 
-
+keep_alive()
 load_dotenv()  # сначала загружаем .env
 logging.basicConfig(
     level=logging.INFO,
@@ -777,4 +780,5 @@ async def show_stats(ctx, member: discord.Member = None):
 # --- Запуск бота
 if __name__ == "__main__":
     bot.run(TOKEN)
+
 
